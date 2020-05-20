@@ -1,0 +1,27 @@
+.col-left
+{
+    background-color: darkgoldenrod;
+    max-width: 20%;
+    display: inline-block;
+}
+.col-left-content
+{
+    margin: 5px;
+    max-width: 100%;
+}
+.td-color
+{
+    color: yellowgreen;
+}
+.col-right
+{
+
+    display: inline-block;
+    margin-left: 15%;
+
+}
+
+.col-right-content
+{
+    display: inline-block;
+}

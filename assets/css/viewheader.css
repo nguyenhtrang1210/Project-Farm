@@ -1,0 +1,43 @@
+ul li {
+    display: inline-block;
+    padding: 10px 15px;
+    width: 13%;
+    height: 15px;
+    background-color: forestgreen;
+    margin-left: 2px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+ul li a {
+    text-decoration: none;
+}
+.header2
+{
+    background-color: forestgreen;
+    margin-bottom: 10px;
+}
+.header1
+{
+    background-color: yellowgreen;
+    max-height: 60px;
+}
+.link
+{
+    font-size: 25px;
+}
+#timkiem
+{
+    margin-left: 65%;
+    border-style: solid;
+    border-radius: 5px;
+    height: 25px;
+}
+.img-header
+{
+   width: 100%;
+    max-height: 70px;
+}
+.header
+{
+    background-color: forestgreen;
+}
